@@ -1,0 +1,137 @@
+*{
+margin: 0
+padding: 0}
+/*=========*/
+.header-top h1 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 59px;
+	color: red;
+	padding: 127px 30px;
+}
+.header-top {
+	background: green;
+	border-radius: 10px;
+}
+.photo1 {
+	float: left;
+	padding: 0px 3px;
+	margin: 11px;
+	text-align: center;
+}
+.photo1 img {
+	width: 419px;
+}
+.photo1 h6 {
+	font-size: 15px;
+	color: darkblue;
+}
+/*=========*/
+/*=========*/
+.photo2 {
+	float: right;
+	margin: 8px;
+	text-align: center;
+}
+.photo2 h6 {
+	font-size: 15px;
+	color: darkblue;
+}
+/*=========*/
+/*=========*/
+
+.photo3 {
+  float: left;
+  padding: 0px 4px;
+  margin: 9px;
+}
+.photo3 img {
+  width: 226px;
+  margin: auto;
+}
+.photo3 h6 {
+  font-size: 13px;
+  color: darkblue;
+}
+/*=========*/
+/*=========*/
+
+.photo4 {
+  float: right;
+  margin: 4px 14px;
+  padding: 3px 4px;
+}
+.photo4 img {
+  width: 198px;
+}
+.photo4 h6 {
+  font-size: 11px;
+  color: darkblue;
+  text-align: center;
+}
+/*=========*/
+/*=========*/
+
+.photo5 {
+  float: left;
+  margin: 2px 3px;
+  padding: 0 5px;
+  text-align: center;
+}
+.photo5 img {
+  width: 385px;
+}
+.photo5 h6 {
+  font-size: 12px;
+  color: darkblue;
+}
+/*=========*/
+/*=========*/
+
+.photo6 {
+  float: right;
+  text-align: center;
+  padding: 5px 16px;
+}
+.photo6 img {
+  width: 202px;
+}
+.contact-top {
+  padding: 4px 13px;
+}
+.photo6 h6 {
+  font-size: 8px;
+  font-weight: bold;
+  color: darkblue;
+}
+/*=========*/
+/*=========*/
+
+.youthful-top h2 {
+  font-size: 36px;
+}
+.youthful-top {
+  text-align: center;
+  padding: 130px 217px;
+}
+.youthful-top {
+	text-align: center;
+	padding: 130px 217px;
+	background: url(../img/index.png);
+	background-position: right;
+	background-attachment: fixed;
+	background-size: cover;
+	color: cornsilk;
+}
+.photo1 {
+	padding: 10px 6px;
+}
+
+.photo7 {
+  float: left;
+}
+.photo7 img {
+  width: 400px;
+  margin: 21px;
+}
+/*=========*/
